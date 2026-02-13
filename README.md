@@ -100,14 +100,3 @@ Low-sales vendors, while profitable per unit, should focus on increasing sales v
 
 📌 Conclusion
 This project demonstrates how combining Python, SQLite, and Power BI can deliver meaningful insights into vendor performance, pricing strategies, and inventory efficiency. The findings can help businesses optimize procurement, improve profitability, and make data-driven decisions.
-
-
-
-
-
-
-
-
-
-
-This project demonstrates how combining Python, SQLite, and Power BI can deliver meaningful insights into vendor performance, pricing strategies, and inventory efficiency. The findings can help businesses optimize procurement, improve profitability, and make data-driven decisions.
